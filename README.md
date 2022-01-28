@@ -11,7 +11,7 @@ node parent.js
 
 Hello, world!
 ```
-Note that `8` comes first than `Hello, world!`.
+Note that `8` comes before `Hello, world!`.
 
 ## Further 
 Something like [node worker farm](https://github.com/rvagg/node-worker-farm)...
